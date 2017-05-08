@@ -11,7 +11,7 @@ using Xamarin.Forms;
 
 namespace RandomUsers.Lib
 {
-    //분기테스트ㅇㅇㅇ
+    //분기테스트ㅇㅇㅇㄷㄷㄷㄷㄷㄷㄷㄷ
     public class EventToCommandBehavior : BindableBehavior<View>
     {
         public static readonly BindableProperty EventNameProperty = BindableProperty.Create<EventToCommandBehavior, string>(p => p.EventName, null);
